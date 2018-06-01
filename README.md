@@ -119,4 +119,4 @@
 
 * * *
 
-[<font color="#0366d6">如有其他疑问请戳本人博客:</font>](http://jethan.oschina.io/2017/07/09/google-cloud搭建vpn/#more)
+[<font color="#0366d6">如有其他疑问请戳我:</font>](http://jet-han.oschina.io/2017/07/09/google-cloud搭建vpn/#more)
