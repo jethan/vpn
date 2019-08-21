@@ -5,7 +5,7 @@ export PATH
 #   System Required:  CentOS6.x/7 (32bit/64bit) or Ubuntu
 #   Description:  Install IKEV2 VPN for CentOS and Ubuntu
 #   Author: quericy
-#   Intro:  https://quericy.me/blog/699
+#   Blog:  https://jet-han.oschina.io/
 #===============================================================================================
 
 clear
