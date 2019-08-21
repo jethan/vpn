@@ -12,7 +12,7 @@ clear
 VER=1.2.0
 echo "#############################################################"
 echo "# Install IKEV2 VPN for CentOS6.x/7 (32bit/64bit) or Ubuntu or Debian7/8.*"
-echo "# Intro: https://quericy.me/blog/699"
+echo "# Blog:  https://jet-han.oschina.io/"
 echo "#"
 echo "# Author:quericy"
 echo "#"
